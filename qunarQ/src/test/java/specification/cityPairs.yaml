@@ -1,0 +1,10 @@
+!testData {date: '2013-05-22', fromCity: 大庆, toCity: 郑州}
+!testData {date: '2013-06-07', fromCity: 秦皇岛, toCity: 太原}
+!testData {date: '2013-06-20', fromCity: 天津, toCity: 哈尔滨}
+!testData {date: '2013-05-21', fromCity: 无锡, toCity: 乌鲁木齐}
+!testData {date: '2013-06-24', fromCity: 长沙, toCity: 青岛}
+!testData {date: '2013-05-17', fromCity: 秦皇岛, toCity: 太原}
+!testData {date: '2013-05-03', fromCity: 郑州, toCity: 昆明}
+!testData {date: '2013-05-19', fromCity: 大庆, toCity: 中山}
+!testData {date: '2013-06-01', fromCity: 苏州, toCity: 哈尔滨}
+!testData {date: '2013-05-21', fromCity: 淄博, toCity: 乌鲁木齐}
